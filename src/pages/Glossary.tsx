@@ -1,0 +1,2 @@
+import glossary from '../data/glossary.json';
+export default function Glossary(){return <div className="mx-auto max-w-5xl p-5 md:p-10"><h1 className="text-4xl font-black">Anatomy glossary</h1><div className="mt-6 grid gap-4 md:grid-cols-2">{glossary.map(g=><article key={g.term} className="medical-card rounded-3xl bg-white p-6 dark:bg-slate-900"><h2 className="text-xl font-bold text-teal-700 dark:text-teal-300">{g.term}</h2><p className="mt-2 text-slate-600 dark:text-slate-300">{g.definition}</p></article>)}</div></div>}

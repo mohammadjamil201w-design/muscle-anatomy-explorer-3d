@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Muscle anatomy diagram placeholder">
+  <rect width="900" height="520" rx="32" fill="#ecfeff"/>
+  <path d="M450 74c-44 0-80 36-80 80v180c0 63 36 112 80 112s80-49 80-112V154c0-44-36-80-80-80z" fill="#fecaca" stroke="#0f766e" stroke-width="10"/>
+  <path d="M450 84v350M386 188c40 26 88 26 128 0M382 260c44 24 92 24 136 0M388 334c38 20 86 20 124 0" stroke="#dc2626" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <circle cx="450" cy="64" r="42" fill="#fee2e2" stroke="#0f766e" stroke-width="8"/>
+  <text x="450" y="488" text-anchor="middle" font-family="Arial" font-size="28" fill="#134e4a" font-weight="700">Educational muscle diagram</text>
+</svg>

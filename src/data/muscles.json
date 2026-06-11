@@ -1,0 +1,3681 @@
+[
+  {
+    "id": 1,
+    "name": "Frontalis",
+    "region": "Head & Neck",
+    "function": "Moves facial expression, mastication, swallowing, or head and neck position",
+    "origin": "skull, fascia, mandible, or cervical vertebrae",
+    "insertion": "skin, mandible, hyoid, or cervical structures",
+    "innervation": "facial, trigeminal, accessory, or cervical nerves",
+    "bloodSupply": "branches of facial, carotid, or vertebral arteries",
+    "actions": [
+      "Facial Expression",
+      "Mastication",
+      "Neck Movement"
+    ],
+    "clinicalImportance": "Important in cranial nerve examination, airway assessment, posture, and temporomandibular or neck pain.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 35,
+      "y": 12,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.006058791540057804,
+        2.1,
+        -0.18
+      ],
+      "scale": [
+        0.16404439495369907,
+        0.14075095908305227,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Occipitalis",
+    "region": "Head & Neck",
+    "function": "Moves facial expression, mastication, swallowing, or head and neck position",
+    "origin": "skull, fascia, mandible, or cervical vertebrae",
+    "insertion": "skin, mandible, hyoid, or cervical structures",
+    "innervation": "facial, trigeminal, accessory, or cervical nerves",
+    "bloodSupply": "branches of facial, carotid, or vertebral arteries",
+    "actions": [
+      "Facial Expression",
+      "Mastication",
+      "Neck Movement"
+    ],
+    "clinicalImportance": "Important in cranial nerve examination, airway assessment, posture, and temporomandibular or neck pain.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 45,
+      "y": 12,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.014175076129391609,
+        2.02,
+        0.18
+      ],
+      "scale": [
+        0.20476935906527036,
+        0.1118853476080043,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Orbicularis Oculi",
+    "region": "Head & Neck",
+    "function": "Moves facial expression, mastication, swallowing, or head and neck position",
+    "origin": "skull, fascia, mandible, or cervical vertebrae",
+    "insertion": "skin, mandible, hyoid, or cervical structures",
+    "innervation": "facial, trigeminal, accessory, or cervical nerves",
+    "bloodSupply": "branches of facial, carotid, or vertebral arteries",
+    "actions": [
+      "Facial Expression",
+      "Mastication",
+      "Neck Movement"
+    ],
+    "clinicalImportance": "Important in cranial nerve examination, airway assessment, posture, and temporomandibular or neck pain.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 55,
+      "y": 12,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.009641181424680356,
+        1.9400000000000002,
+        0.18
+      ],
+      "scale": [
+        0.17332158003511702,
+        0.11447937735262667,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Orbicularis Oris",
+    "region": "Head & Neck",
+    "function": "Moves facial expression, mastication, swallowing, or head and neck position",
+    "origin": "skull, fascia, mandible, or cervical vertebrae",
+    "insertion": "skin, mandible, hyoid, or cervical structures",
+    "innervation": "facial, trigeminal, accessory, or cervical nerves",
+    "bloodSupply": "branches of facial, carotid, or vertebral arteries",
+    "actions": [
+      "Facial Expression",
+      "Mastication",
+      "Neck Movement"
+    ],
+    "clinicalImportance": "Important in cranial nerve examination, airway assessment, posture, and temporomandibular or neck pain.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 35,
+      "y": 12,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.03593491545044367,
+        1.86,
+        0.18
+      ],
+      "scale": [
+        0.17251718450693176,
+        0.11376783689431287,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Buccinator",
+    "region": "Head & Neck",
+    "function": "Moves facial expression, mastication, swallowing, or head and neck position",
+    "origin": "skull, fascia, mandible, or cervical vertebrae",
+    "insertion": "skin, mandible, hyoid, or cervical structures",
+    "innervation": "facial, trigeminal, accessory, or cervical nerves",
+    "bloodSupply": "branches of facial, carotid, or vertebral arteries",
+    "actions": [
+      "Facial Expression",
+      "Mastication",
+      "Neck Movement"
+    ],
+    "clinicalImportance": "Important in cranial nerve examination, airway assessment, posture, and temporomandibular or neck pain.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 45,
+      "y": 12,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.04168480398271677,
+        1.78,
+        0.18
+      ],
+      "scale": [
+        0.21104075527848226,
+        0.12352463281959146,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Masseter",
+    "region": "Head & Neck",
+    "function": "Elevates the mandible during chewing",
+    "origin": "Zygomatic arch",
+    "insertion": "Lateral ramus and angle of mandible",
+    "innervation": "Mandibular division of trigeminal nerve",
+    "bloodSupply": "Masseteric artery",
+    "actions": [
+      "Jaw Elevation",
+      "Mastication"
+    ],
+    "clinicalImportance": "Tenderness may be associated with temporomandibular disorders.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 55,
+      "y": 21,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.027920293442940388,
+        1.7000000000000002,
+        0.18
+      ],
+      "scale": [
+        0.1678798394775573,
+        0.1164960968710901,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Temporalis",
+    "region": "Head & Neck",
+    "function": "Moves facial expression, mastication, swallowing, or head and neck position",
+    "origin": "skull, fascia, mandible, or cervical vertebrae",
+    "insertion": "skin, mandible, hyoid, or cervical structures",
+    "innervation": "facial, trigeminal, accessory, or cervical nerves",
+    "bloodSupply": "branches of facial, carotid, or vertebral arteries",
+    "actions": [
+      "Facial Expression",
+      "Mastication",
+      "Neck Movement"
+    ],
+    "clinicalImportance": "Important in cranial nerve examination, airway assessment, posture, and temporomandibular or neck pain.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 35,
+      "y": 21,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.051243047999395684,
+        1.62,
+        0.18
+      ],
+      "scale": [
+        0.16440334100721712,
+        0.10322676930843114,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Sternocleidomastoid",
+    "region": "Head & Neck",
+    "function": "Flexes neck bilaterally and rotates head contralaterally",
+    "origin": "Manubrium and medial clavicle",
+    "insertion": "Mastoid process and superior nuchal line",
+    "innervation": "Accessory nerve and cervical plexus",
+    "bloodSupply": "Occipital and superior thyroid arteries",
+    "actions": [
+      "Neck Flexion",
+      "Head Rotation"
+    ],
+    "clinicalImportance": "Assessed in accessory nerve examination and torticollis.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 45,
+      "y": 21,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.018013245245746757,
+        1.54,
+        -0.18
+      ],
+      "scale": [
+        0.15402718978287774,
+        0.1164389900766794,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Platysma",
+    "region": "Head & Neck",
+    "function": "Moves facial expression, mastication, swallowing, or head and neck position",
+    "origin": "skull, fascia, mandible, or cervical vertebrae",
+    "insertion": "skin, mandible, hyoid, or cervical structures",
+    "innervation": "facial, trigeminal, accessory, or cervical nerves",
+    "bloodSupply": "branches of facial, carotid, or vertebral arteries",
+    "actions": [
+      "Facial Expression",
+      "Mastication",
+      "Neck Movement"
+    ],
+    "clinicalImportance": "Important in cranial nerve examination, airway assessment, posture, and temporomandibular or neck pain.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 55,
+      "y": 21,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.0511480398412503,
+        1.46,
+        0.18
+      ],
+      "scale": [
+        0.16572035220447282,
+        0.1083009007964654,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Splenius Capitis",
+    "region": "Head & Neck",
+    "function": "Moves facial expression, mastication, swallowing, or head and neck position",
+    "origin": "skull, fascia, mandible, or cervical vertebrae",
+    "insertion": "skin, mandible, hyoid, or cervical structures",
+    "innervation": "facial, trigeminal, accessory, or cervical nerves",
+    "bloodSupply": "branches of facial, carotid, or vertebral arteries",
+    "actions": [
+      "Facial Expression",
+      "Mastication",
+      "Neck Movement"
+    ],
+    "clinicalImportance": "Important in cranial nerve examination, airway assessment, posture, and temporomandibular or neck pain.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 35,
+      "y": 21,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.03363197916749697,
+        2.1,
+        0.18
+      ],
+      "scale": [
+        0.18431675803306408,
+        0.1259123627423115,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Scalenes",
+    "region": "Head & Neck",
+    "function": "Moves facial expression, mastication, swallowing, or head and neck position",
+    "origin": "skull, fascia, mandible, or cervical vertebrae",
+    "insertion": "skin, mandible, hyoid, or cervical structures",
+    "innervation": "facial, trigeminal, accessory, or cervical nerves",
+    "bloodSupply": "branches of facial, carotid, or vertebral arteries",
+    "actions": [
+      "Facial Expression",
+      "Mastication",
+      "Neck Movement"
+    ],
+    "clinicalImportance": "Important in cranial nerve examination, airway assessment, posture, and temporomandibular or neck pain.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 45,
+      "y": 30,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.03899904274440765,
+        2.02,
+        0.18
+      ],
+      "scale": [
+        0.22086600653642516,
+        0.13352797514298664,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Levator Scapulae",
+    "region": "Head & Neck",
+    "function": "Moves facial expression, mastication, swallowing, or head and neck position",
+    "origin": "skull, fascia, mandible, or cervical vertebrae",
+    "insertion": "skin, mandible, hyoid, or cervical structures",
+    "innervation": "facial, trigeminal, accessory, or cervical nerves",
+    "bloodSupply": "branches of facial, carotid, or vertebral arteries",
+    "actions": [
+      "Facial Expression",
+      "Mastication",
+      "Neck Movement"
+    ],
+    "clinicalImportance": "Important in cranial nerve examination, airway assessment, posture, and temporomandibular or neck pain.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 55,
+      "y": 30,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.0588292863920683,
+        1.9400000000000002,
+        0.18
+      ],
+      "scale": [
+        0.18496480463855777,
+        0.1371082974677681,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Digastric",
+    "region": "Head & Neck",
+    "function": "Moves facial expression, mastication, swallowing, or head and neck position",
+    "origin": "skull, fascia, mandible, or cervical vertebrae",
+    "insertion": "skin, mandible, hyoid, or cervical structures",
+    "innervation": "facial, trigeminal, accessory, or cervical nerves",
+    "bloodSupply": "branches of facial, carotid, or vertebral arteries",
+    "actions": [
+      "Facial Expression",
+      "Mastication",
+      "Neck Movement"
+    ],
+    "clinicalImportance": "Important in cranial nerve examination, airway assessment, posture, and temporomandibular or neck pain.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 35,
+      "y": 30,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.03393789746947796,
+        1.86,
+        0.18
+      ],
+      "scale": [
+        0.19649712145480952,
+        0.12021706330195918,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Mylohyoid",
+    "region": "Head & Neck",
+    "function": "Moves facial expression, mastication, swallowing, or head and neck position",
+    "origin": "skull, fascia, mandible, or cervical vertebrae",
+    "insertion": "skin, mandible, hyoid, or cervical structures",
+    "innervation": "facial, trigeminal, accessory, or cervical nerves",
+    "bloodSupply": "branches of facial, carotid, or vertebral arteries",
+    "actions": [
+      "Facial Expression",
+      "Mastication",
+      "Neck Movement"
+    ],
+    "clinicalImportance": "Important in cranial nerve examination, airway assessment, posture, and temporomandibular or neck pain.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 45,
+      "y": 30,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.03750364674948119,
+        1.78,
+        0.18
+      ],
+      "scale": [
+        0.18716995948241932,
+        0.10525336623908625,
+        0.08
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Pectoralis Major",
+    "region": "Trunk",
+    "function": "Adducts and medially rotates the arm",
+    "origin": "Clavicle, sternum, and costal cartilages",
+    "insertion": "Lateral lip of intertubercular sulcus of humerus",
+    "innervation": "Medial and lateral pectoral nerves",
+    "bloodSupply": "Pectoral branch of thoracoacromial artery",
+    "actions": [
+      "Shoulder Adduction",
+      "Medial Rotation"
+    ],
+    "clinicalImportance": "Can tear during heavy bench pressing or forceful adduction.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 35,
+      "y": 25,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.0594853969745901,
+        0.8,
+        -0.18
+      ],
+      "scale": [
+        0.2144766413465299,
+        0.32485255692768167,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Pectoralis Minor",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 45,
+      "y": 25,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.029014337547720735,
+        0.7200000000000001,
+        0.18
+      ],
+      "scale": [
+        0.22736854200105228,
+        0.27425040782028715,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Serratus Anterior",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 55,
+      "y": 25,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.028446835696363693,
+        0.64,
+        0.18
+      ],
+      "scale": [
+        0.27162032995453667,
+        0.2722659264781426,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 18,
+    "name": "External Intercostals",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 35,
+      "y": 25,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.01870802218527466,
+        0.56,
+        0.18
+      ],
+      "scale": [
+        0.3045112341596966,
+        0.24432995884493655,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Internal Intercostals",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 45,
+      "y": 25,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.026443029408740652,
+        0.48000000000000004,
+        0.18
+      ],
+      "scale": [
+        0.26838868596579035,
+        0.24660892679666777,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Diaphragm",
+    "region": "Trunk",
+    "function": "Primary muscle of inspiration",
+    "origin": "Xiphoid process, lower ribs, and lumbar crura",
+    "insertion": "Central tendon",
+    "innervation": "Phrenic nerve",
+    "bloodSupply": "Pericardiacophrenic and musculophrenic arteries",
+    "actions": [
+      "Inspiration",
+      "Core Pressure"
+    ],
+    "clinicalImportance": "Phrenic nerve injury can impair breathing.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 55,
+      "y": 34,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.0019836446103568806,
+        0.4,
+        0.18
+      ],
+      "scale": [
+        0.2672781956433809,
+        0.2859215992293074,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Rectus Abdominis",
+    "region": "Trunk",
+    "function": "Flexes the trunk and compresses abdominal contents",
+    "origin": "Pubic crest and pubic symphysis",
+    "insertion": "Xiphoid process and costal cartilages 5-7",
+    "innervation": "Thoracoabdominal nerves",
+    "bloodSupply": "Superior and inferior epigastric arteries",
+    "actions": [
+      "Trunk Flexion",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Relevant in abdominal wall strain and hernia assessment.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 35,
+      "y": 34,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.016732309387816068,
+        0.32000000000000006,
+        0.18
+      ],
+      "scale": [
+        0.31012598110502143,
+        0.31708510305384663,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 22,
+    "name": "External Oblique",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 45,
+      "y": 34,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.004454463195795361,
+        0.24,
+        -0.18
+      ],
+      "scale": [
+        0.23199697545103884,
+        0.25448366288651364,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Internal Oblique",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 55,
+      "y": 34,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.0019243253011251714,
+        0.16000000000000003,
+        0.18
+      ],
+      "scale": [
+        0.283521193867351,
+        0.25444156268869733,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Transversus Abdominis",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 35,
+      "y": 34,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.03997999847864663,
+        0.8,
+        0.18
+      ],
+      "scale": [
+        0.23572203786202156,
+        0.32951033239073546,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Trapezius",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 45,
+      "y": 43,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.04198909512267894,
+        0.7200000000000001,
+        0.18
+      ],
+      "scale": [
+        0.2685744622791768,
+        0.27808272603707707,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Latissimus Dorsi",
+    "region": "Trunk",
+    "function": "Extends, adducts, and medially rotates the arm",
+    "origin": "Thoracolumbar fascia, lower thoracic spine, iliac crest, and ribs",
+    "insertion": "Floor of intertubercular sulcus of humerus",
+    "innervation": "Thoracodorsal nerve",
+    "bloodSupply": "Thoracodorsal artery",
+    "actions": [
+      "Shoulder Extension",
+      "Shoulder Adduction"
+    ],
+    "clinicalImportance": "Used in reconstructive flaps and assessed in shoulder dysfunction.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 55,
+      "y": 43,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.013469231732145275,
+        0.64,
+        0.18
+      ],
+      "scale": [
+        0.30283926910913017,
+        0.2571182510035177,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Rhomboid Major",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 35,
+      "y": 43,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.011080732478150845,
+        0.56,
+        0.18
+      ],
+      "scale": [
+        0.2913684128783868,
+        0.3236706041183954,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Rhomboid Minor",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 45,
+      "y": 43,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.04266386043551846,
+        0.48000000000000004,
+        0.18
+      ],
+      "scale": [
+        0.22339458780643223,
+        0.2732854356521962,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Erector Spinae",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 55,
+      "y": 43,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.01687633730322593,
+        0.4,
+        -0.18
+      ],
+      "scale": [
+        0.2992167350421674,
+        0.2784962390273651,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Multifidus",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 35,
+      "y": 52,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.019551380907475678,
+        0.32000000000000006,
+        0.18
+      ],
+      "scale": [
+        0.23875121836247676,
+        0.30428666576471547,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Quadratus Lumborum",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 45,
+      "y": 52,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.04072970558464786,
+        0.24,
+        0.18
+      ],
+      "scale": [
+        0.25303235228503596,
+        0.24932172486001017,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Iliopsoas",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 55,
+      "y": 52,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.0047126193916446945,
+        0.16000000000000003,
+        0.18
+      ],
+      "scale": [
+        0.2734911045886376,
+        0.28485204994919483,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Pelvic Floor Group",
+    "region": "Trunk",
+    "function": "Stabilizes the spine and thorax, assists breathing, or moves the shoulder girdle",
+    "origin": "vertebrae, ribs, sternum, clavicle, pelvis, or thoracolumbar fascia",
+    "insertion": "ribs, humerus, scapula, linea alba, pelvis, or vertebrae",
+    "innervation": "intercostal, thoracodorsal, accessory, or spinal nerves",
+    "bloodSupply": "intercostal, thoracoacromial, subcostal, or lumbar arteries",
+    "actions": [
+      "Posture",
+      "Respiration",
+      "Core Stabilization"
+    ],
+    "clinicalImportance": "Clinically relevant in breathing mechanics, back pain, shoulder mechanics, hernias, and core rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "both",
+    "hotspot": {
+      "x": 35,
+      "y": 52,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.05909094444432872,
+        0.8,
+        0.18
+      ],
+      "scale": [
+        0.3124426982018901,
+        0.2535517706081584,
+        0.1
+      ],
+      "side": "center"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Deltoid",
+    "region": "Upper Limb",
+    "function": "Abducts the arm and assists flexion and extension",
+    "origin": "Clavicle, acromion, and spine of scapula",
+    "insertion": "Deltoid tuberosity of humerus",
+    "innervation": "Axillary nerve",
+    "bloodSupply": "Posterior circumflex humeral artery",
+    "actions": [
+      "Shoulder Abduction",
+      "Shoulder Flexion",
+      "Shoulder Extension"
+    ],
+    "clinicalImportance": "Axillary nerve injury causes weakness of shoulder abduction.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 22,
+      "y": 25,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7969498938817609,
+        0.75,
+        -0.18
+      ],
+      "scale": [
+        0.09985674461120088,
+        0.24703704773642832,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Supraspinatus",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 36,
+      "y": 25,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.796541082851769,
+        0.67,
+        0.18
+      ],
+      "scale": [
+        0.09725617451211069,
+        0.2747188289203487,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Infraspinatus",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 50,
+      "y": 25,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7816959407443914,
+        0.59,
+        0.18
+      ],
+      "scale": [
+        0.11599230225965443,
+        0.2595364630985278,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Teres Minor",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 64,
+      "y": 25,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.749824629520074,
+        0.51,
+        0.18
+      ],
+      "scale": [
+        0.11118463166270572,
+        0.2368242605987937,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Teres Major",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 78,
+      "y": 25,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7437136541807324,
+        0.43,
+        0.18
+      ],
+      "scale": [
+        0.10516993658083702,
+        0.2215214051627992,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Subscapularis",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 22,
+      "y": 34,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.8018561944422999,
+        0.35,
+        0.18
+      ],
+      "scale": [
+        0.08807818599999852,
+        0.26252261471130744,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Biceps Brachii",
+    "region": "Upper Limb",
+    "function": "Flexes the elbow and supinates the forearm",
+    "origin": "Long head: supraglenoid tubercle; short head: coracoid process",
+    "insertion": "Radial tuberosity and bicipital aponeurosis",
+    "innervation": "Musculocutaneous nerve",
+    "bloodSupply": "Brachial artery",
+    "actions": [
+      "Elbow Flexion",
+      "Forearm Supination"
+    ],
+    "clinicalImportance": "Common site of tendinopathy and distal tendon rupture.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 36,
+      "y": 34,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7085018162339232,
+        0.27,
+        0.18
+      ],
+      "scale": [
+        0.11250337504489452,
+        0.25751744754191347,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Brachialis",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 50,
+      "y": 34,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.8015707113213151,
+        0.18999999999999995,
+        -0.18
+      ],
+      "scale": [
+        0.11121264362559989,
+        0.27190051926705794,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Coracobrachialis",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 64,
+      "y": 34,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7177999390549181,
+        0.10999999999999999,
+        0.18
+      ],
+      "scale": [
+        0.09034847853610155,
+        0.20716738576102228,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Triceps Brachii",
+    "region": "Upper Limb",
+    "function": "Extends the elbow and assists shoulder extension",
+    "origin": "Infraglenoid tubercle and posterior humerus",
+    "insertion": "Olecranon of ulna",
+    "innervation": "Radial nerve",
+    "bloodSupply": "Deep brachial artery",
+    "actions": [
+      "Elbow Extension",
+      "Shoulder Extension"
+    ],
+    "clinicalImportance": "Radial nerve injury can weaken elbow extension.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 78,
+      "y": 34,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.7790236161762679,
+        0.75,
+        0.18
+      ],
+      "scale": [
+        0.10365837361423631,
+        0.27114674065809474,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Anconeus",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 22,
+      "y": 43,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7626486621993276,
+        0.67,
+        0.18
+      ],
+      "scale": [
+        0.12038357805172227,
+        0.27966961701165594,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Brachioradialis",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 36,
+      "y": 43,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.7886420459906051,
+        0.59,
+        0.18
+      ],
+      "scale": [
+        0.10547726549803203,
+        0.2272635244821456,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Pronator Teres",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 50,
+      "y": 43,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7964048937768727,
+        0.51,
+        0.18
+      ],
+      "scale": [
+        0.11731268862927953,
+        0.2040565852550255,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Flexor Carpi Radialis",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 64,
+      "y": 43,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.7230860971819265,
+        0.43,
+        0.18
+      ],
+      "scale": [
+        0.09649809324375913,
+        0.24220575549765747,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Palmaris Longus",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 78,
+      "y": 43,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7088495976647214,
+        0.35,
+        -0.18
+      ],
+      "scale": [
+        0.10912602098418674,
+        0.28449700810425693,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Flexor Carpi Ulnaris",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 22,
+      "y": 52,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.6987482444195797,
+        0.27,
+        0.18
+      ],
+      "scale": [
+        0.1193067466440561,
+        0.2196252690124598,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Flexor Digitorum Superficialis",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 36,
+      "y": 52,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7438055685348467,
+        0.18999999999999995,
+        0.18
+      ],
+      "scale": [
+        0.09480060007561693,
+        0.25168408367732803,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Flexor Digitorum Profundus",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 50,
+      "y": 52,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.7857411280240859,
+        0.10999999999999999,
+        0.18
+      ],
+      "scale": [
+        0.10734236610548141,
+        0.2825771159623763,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Flexor Pollicis Longus",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 64,
+      "y": 52,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.6922966224255961,
+        0.75,
+        0.18
+      ],
+      "scale": [
+        0.10412131504557598,
+        0.23363943738891785,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Pronator Quadratus",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 78,
+      "y": 52,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.728160848786794,
+        0.67,
+        0.18
+      ],
+      "scale": [
+        0.12100476079147227,
+        0.2862812571851922,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Extensor Carpi Radialis Longus",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 22,
+      "y": 61,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.731868327362177,
+        0.59,
+        0.18
+      ],
+      "scale": [
+        0.09435968894591612,
+        0.22462669233080582,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Extensor Carpi Radialis Brevis",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 36,
+      "y": 61,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.6928521997699744,
+        0.51,
+        -0.18
+      ],
+      "scale": [
+        0.08809075320066798,
+        0.25685406867410515,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Extensor Digitorum",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 50,
+      "y": 61,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7265618778981188,
+        0.43,
+        0.18
+      ],
+      "scale": [
+        0.12083513303359328,
+        0.2327404015897795,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Extensor Digiti Minimi",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 64,
+      "y": 61,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.7746024432618497,
+        0.35,
+        0.18
+      ],
+      "scale": [
+        0.09696868822746044,
+        0.24753192404733193,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Extensor Carpi Ulnaris",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 78,
+      "y": 61,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7529231913442599,
+        0.27,
+        0.18
+      ],
+      "scale": [
+        0.1103187025294473,
+        0.24700302517346792,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Supinator",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 22,
+      "y": 70,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.7860714647331614,
+        0.18999999999999995,
+        0.18
+      ],
+      "scale": [
+        0.11224243819998925,
+        0.2658233232572192,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Abductor Pollicis Longus",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 36,
+      "y": 70,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7902554963634216,
+        0.10999999999999999,
+        0.18
+      ],
+      "scale": [
+        0.10923565878083448,
+        0.23354590777821965,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 61,
+    "name": "Extensor Pollicis Brevis",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 50,
+      "y": 70,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.6973763729108997,
+        0.75,
+        0.18
+      ],
+      "scale": [
+        0.1167489549482984,
+        0.22776019145691587,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 62,
+    "name": "Extensor Pollicis Longus",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 64,
+      "y": 70,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.6962451209137781,
+        0.67,
+        -0.18
+      ],
+      "scale": [
+        0.09353109784840755,
+        0.2119200371392678,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 63,
+    "name": "Extensor Indicis",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 78,
+      "y": 70,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.7479456473749247,
+        0.59,
+        0.18
+      ],
+      "scale": [
+        0.10610414203420578,
+        0.2684648799584412,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 64,
+    "name": "Thenar Group",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 22,
+      "y": 79,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7475050017753259,
+        0.51,
+        0.18
+      ],
+      "scale": [
+        0.09561746228214306,
+        0.23062226062292618,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 65,
+    "name": "Hypothenar Group",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 36,
+      "y": 79,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.72699708754779,
+        0.43,
+        0.18
+      ],
+      "scale": [
+        0.11555866896441117,
+        0.20609811893645602,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Dorsal Interossei",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 50,
+      "y": 79,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.7763334170462366,
+        0.35,
+        0.18
+      ],
+      "scale": [
+        0.11159330419760871,
+        0.20964422874347308,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 67,
+    "name": "Palmar Interossei",
+    "region": "Upper Limb",
+    "function": "Moves the shoulder, elbow, wrist, hand, or fingers",
+    "origin": "scapula, clavicle, humerus, radius, ulna, or forearm fascia",
+    "insertion": "humerus, radius, ulna, carpal bones, metacarpals, or phalanges",
+    "innervation": "brachial plexus branches",
+    "bloodSupply": "axillary, brachial, radial, or ulnar arteries",
+    "actions": [
+      "Shoulder Movement",
+      "Elbow Movement",
+      "Wrist and Hand Movement"
+    ],
+    "clinicalImportance": "Commonly evaluated in sports injuries, nerve lesions, tendon disorders, and rehabilitation after fractures.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 64,
+      "y": 79,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.7569769678583762,
+        0.27,
+        0.18
+      ],
+      "scale": [
+        0.11654718655357064,
+        0.26906797325553017,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 68,
+    "name": "Gluteus Maximus",
+    "region": "Lower Limb",
+    "function": "Extends and laterally rotates the hip",
+    "origin": "Ilium, sacrum, coccyx, and sacrotuberous ligament",
+    "insertion": "Iliotibial tract and gluteal tuberosity",
+    "innervation": "Inferior gluteal nerve",
+    "bloodSupply": "Inferior gluteal artery",
+    "actions": [
+      "Hip Extension",
+      "Lateral Rotation"
+    ],
+    "clinicalImportance": "Weakness affects stair climbing and rising from a chair.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 22,
+      "y": 47,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.3324422057275945,
+        -1.05,
+        -0.18
+      ],
+      "scale": [
+        0.1137946965263733,
+        0.3338888975850186,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Gluteus Medius",
+    "region": "Lower Limb",
+    "function": "Abducts and medially rotates the hip; stabilizes pelvis",
+    "origin": "External ilium",
+    "insertion": "Greater trochanter of femur",
+    "innervation": "Superior gluteal nerve",
+    "bloodSupply": "Superior gluteal artery",
+    "actions": [
+      "Hip Abduction",
+      "Pelvic Stabilization"
+    ],
+    "clinicalImportance": "Weakness may produce Trendelenburg gait.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 36,
+      "y": 47,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.2594889671874749,
+        -1.1300000000000001,
+        0.18
+      ],
+      "scale": [
+        0.09860781946624361,
+        0.32060925525131123,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Gluteus Minimus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 50,
+      "y": 47,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.29814279620923906,
+        -1.21,
+        0.18
+      ],
+      "scale": [
+        0.10002314873560685,
+        0.2672313688455152,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Tensor Fasciae Latae",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 64,
+      "y": 47,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.31463015098696023,
+        -1.29,
+        0.18
+      ],
+      "scale": [
+        0.11838080315815472,
+        0.27216751682042356,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 72,
+    "name": "Piriformis",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 78,
+      "y": 47,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.25284896683469027,
+        -1.37,
+        0.18
+      ],
+      "scale": [
+        0.12037245931353381,
+        0.3203397165641483,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Adductor Longus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 22,
+      "y": 55,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.22954159172803995,
+        -1.4500000000000002,
+        0.18
+      ],
+      "scale": [
+        0.10792021072504032,
+        0.3303784479258543,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Adductor Brevis",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 36,
+      "y": 55,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.3286829460010695,
+        -1.53,
+        0.18
+      ],
+      "scale": [
+        0.1198712310492794,
+        0.27688518622631636,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 75,
+    "name": "Adductor Magnus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 50,
+      "y": 55,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.26353597917511845,
+        -1.61,
+        -0.18
+      ],
+      "scale": [
+        0.1306284381589497,
+        0.30060210806396653,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 76,
+    "name": "Gracilis",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 64,
+      "y": 55,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.3390219871758246,
+        -1.69,
+        0.18
+      ],
+      "scale": [
+        0.10686109375122894,
+        0.3178490852385397,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 77,
+    "name": "Pectineus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 78,
+      "y": 55,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.22876231216427187,
+        -1.05,
+        0.18
+      ],
+      "scale": [
+        0.13402673110548421,
+        0.3274328285211833,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 78,
+    "name": "Sartorius",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 22,
+      "y": 63,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.3399246181750285,
+        -1.1300000000000001,
+        0.18
+      ],
+      "scale": [
+        0.1347635843619803,
+        0.23827002307897757,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 79,
+    "name": "Rectus Femoris",
+    "region": "Lower Limb",
+    "function": "Extends the knee and flexes the hip",
+    "origin": "Anterior inferior iliac spine and acetabular rim",
+    "insertion": "Tibial tuberosity via patellar ligament",
+    "innervation": "Femoral nerve",
+    "bloodSupply": "Lateral circumflex femoral artery",
+    "actions": [
+      "Knee Extension",
+      "Hip Flexion"
+    ],
+    "clinicalImportance": "Commonly strained in kicking sports.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 36,
+      "y": 63,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.3191289019329771,
+        -1.21,
+        0.18
+      ],
+      "scale": [
+        0.13644945492323018,
+        0.3282930553834256,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Vastus Lateralis",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 50,
+      "y": 63,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.3101409800677095,
+        -1.29,
+        0.18
+      ],
+      "scale": [
+        0.0936674495636417,
+        0.32359284989904236,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 81,
+    "name": "Vastus Medialis",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 64,
+      "y": 63,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.2791777173625829,
+        -1.37,
+        0.18
+      ],
+      "scale": [
+        0.12733326445317897,
+        0.2795320045756971,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 82,
+    "name": "Vastus Intermedius",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 78,
+      "y": 63,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.2874904476429987,
+        -1.4500000000000002,
+        -0.18
+      ],
+      "scale": [
+        0.12904384406763084,
+        0.25824648892252783,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 83,
+    "name": "Biceps Femoris",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 22,
+      "y": 71,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.2490587160714458,
+        -1.53,
+        0.18
+      ],
+      "scale": [
+        0.10081631700883305,
+        0.28437043894281294,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 84,
+    "name": "Semitendinosus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 36,
+      "y": 71,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.3068289802773004,
+        -1.61,
+        0.18
+      ],
+      "scale": [
+        0.09721193240756935,
+        0.2881112280699907,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 85,
+    "name": "Semimembranosus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 50,
+      "y": 71,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.28763046084232413,
+        -1.69,
+        0.18
+      ],
+      "scale": [
+        0.1352335681256871,
+        0.2612984880118404,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 86,
+    "name": "Tibialis Anterior",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 64,
+      "y": 71,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.33836687852333613,
+        -1.05,
+        0.18
+      ],
+      "scale": [
+        0.13505324947205607,
+        0.31123861514327306,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 87,
+    "name": "Extensor Hallucis Longus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 78,
+      "y": 71,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.32839790751096753,
+        -1.1300000000000001,
+        0.18
+      ],
+      "scale": [
+        0.105032046826923,
+        0.3146204232092068,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Extensor Digitorum Longus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 22,
+      "y": 79,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.2949496997857535,
+        -1.21,
+        0.18
+      ],
+      "scale": [
+        0.10637976659443173,
+        0.3197890319402861,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 89,
+    "name": "Fibularis Longus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 36,
+      "y": 79,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.24876352122558695,
+        -1.29,
+        -0.18
+      ],
+      "scale": [
+        0.103167976286353,
+        0.3026713802959938,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 90,
+    "name": "Fibularis Brevis",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 50,
+      "y": 79,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.28257382185886853,
+        -1.37,
+        0.18
+      ],
+      "scale": [
+        0.10456852925304883,
+        0.2978984966091968,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 91,
+    "name": "Gastrocnemius",
+    "region": "Lower Limb",
+    "function": "Plantarflexes the ankle and flexes the knee",
+    "origin": "Medial and lateral femoral condyles",
+    "insertion": "Calcaneus via Achilles tendon",
+    "innervation": "Tibial nerve",
+    "bloodSupply": "Sural arteries",
+    "actions": [
+      "Plantarflexion",
+      "Knee Flexion"
+    ],
+    "clinicalImportance": "Achilles tendon injury affects push-off in gait.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 64,
+      "y": 79,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.2673066147985053,
+        -1.4500000000000002,
+        0.18
+      ],
+      "scale": [
+        0.12193126744362422,
+        0.2656821936377329,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 92,
+    "name": "Soleus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 78,
+      "y": 79,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.31548756745807505,
+        -1.53,
+        0.18
+      ],
+      "scale": [
+        0.10563609204772,
+        0.3284774367089449,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Plantaris",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 22,
+      "y": 85,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.22209035419573442,
+        -1.61,
+        0.18
+      ],
+      "scale": [
+        0.10549460592520789,
+        0.2808525177037527,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 94,
+    "name": "Popliteus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 36,
+      "y": 85,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.23506697042190589,
+        -1.69,
+        0.18
+      ],
+      "scale": [
+        0.10107047289190661,
+        0.2898721728966313,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 95,
+    "name": "Tibialis Posterior",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 50,
+      "y": 85,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.2671343898138827,
+        -1.05,
+        0.18
+      ],
+      "scale": [
+        0.12587277860982754,
+        0.29489276687360977,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 96,
+    "name": "Flexor Hallucis Longus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "back",
+    "hotspot": {
+      "x": 64,
+      "y": 85,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.30393600506961543,
+        -1.1300000000000001,
+        -0.18
+      ],
+      "scale": [
+        0.1294912245525073,
+        0.2743954599702488,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Flexor Digitorum Longus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 78,
+      "y": 85,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.27733038207226146,
+        -1.21,
+        0.18
+      ],
+      "scale": [
+        0.13384093326219593,
+        0.25780765871468064,
+        0.08
+      ],
+      "side": "right"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Iliacus",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 22,
+      "y": 85,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        0.2543635983421138,
+        -1.29,
+        0.18
+      ],
+      "scale": [
+        0.13010474506455375,
+        0.2727745939275367,
+        0.08
+      ],
+      "side": "left"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Psoas Major",
+    "region": "Lower Limb",
+    "function": "Moves the hip, knee, ankle, foot, or toes and supports gait",
+    "origin": "pelvis, femur, tibia, fibula, or interosseous membrane",
+    "insertion": "femur, tibia, fibula, tarsals, metatarsals, or phalanges",
+    "innervation": "lumbar plexus, sacral plexus, femoral, obturator, sciatic, tibial, or fibular nerves",
+    "bloodSupply": "femoral, profunda femoris, gluteal, popliteal, tibial, or fibular arteries",
+    "actions": [
+      "Hip Movement",
+      "Knee Movement",
+      "Ankle and Foot Movement",
+      "Gait"
+    ],
+    "clinicalImportance": "Important for gait analysis, athletic injury assessment, nerve root testing, and lower-limb rehabilitation.",
+    "image": "/assets/muscle-diagram-placeholder.svg",
+    "view": "front",
+    "hotspot": {
+      "x": 36,
+      "y": 85,
+      "width": 10,
+      "height": 8
+    },
+    "model3d": {
+      "position": [
+        -0.28980824936772037,
+        -1.37,
+        0.18
+      ],
+      "scale": [
+        0.09935717708904927,
+        0.2837457717865966,
+        0.08
+      ],
+      "side": "right"
+    }
+  }
+]

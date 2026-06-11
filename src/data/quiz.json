@@ -1,0 +1,6 @@
+[
+{"id":1,"type":"function","prompt":"Which muscle flexes the elbow and supinates the forearm?","answer":"Biceps Brachii","options":["Biceps Brachii","Triceps Brachii","Deltoid","Trapezius"],"muscleId":1},
+{"id":2,"type":"identify","prompt":"Identify the large anterior thigh muscle group highlighted in the viewer.","answer":"Quadriceps Femoris","options":["Hamstrings","Quadriceps Femoris","Gastrocnemius","Rectus Abdominis"],"muscleId":6},
+{"id":3,"type":"function","prompt":"Which muscle is primarily responsible for elbow extension?","answer":"Triceps Brachii","options":["Biceps Brachii","Triceps Brachii","Pectoralis Major","Sternocleidomastoid"],"muscleId":2},
+{"id":4,"type":"function","prompt":"Which muscle plantarflexes the ankle through the Achilles tendon?","answer":"Gastrocnemius","options":["Gastrocnemius","Hamstrings","Quadriceps Femoris","Deltoid"],"muscleId":8}
+]
